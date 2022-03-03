@@ -1,0 +1,63 @@
+.firstone,
+.secondone{
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-weight: 900;
+}
+
+.text{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.secondone{
+    color: rgb(241, 122, 122);
+    margin-left: 40px;
+}
+.inloc{
+    height:2px;
+    width:100px;
+    background-color: rgb(241, 122, 122);
+    margin-top: 50px;
+}
+.col{
+    display: flex;
+    flex-direction: row;
+}
+p{
+    color:rgb(138, 137, 137);
+}
+.inoo{
+    width:120px;
+    height:30px;
+    border:none;
+    color:white;
+    background-color:  rgb(241, 122, 122);
+    border-radius: 5px;
+}
+.comun{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
+.immoo{
+    margin-left: 200px;
+    margin-top: 30px;
+    display: flex;
+    gap:0;
+}
+.unu{
+    width:324px;
+    height:394px;
+    border-radius: 10px;
+}
+.doi{
+    width:262px;
+    height:278px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.trei{
+    width:203px;
+    height:219px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
